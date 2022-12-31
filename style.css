@@ -98,6 +98,12 @@ nav{
     margin-top: 10px;
     font-weight: 700;
     color: rgb(54, 54, 54);
+    transition: all .4s;
+
+}
+.hero-text button:hover{
+    box-shadow: 0px 15px 51px 19px rgba(62, 249, 237, 0.11);
+    transform: scale(1.05);
 }
 
     /* about me sectin  */
@@ -334,7 +340,7 @@ nav{
     max-width: 100%;
 }
 .project-container .col:hover{
-     box-shadow: 0px 15px 51px 19px rgba(62, 249, 237, 0.11);
+    box-shadow: 0px 15px 51px 19px rgba(62, 249, 237, 0.11);
     transform: scale(1.05);
 }
 .project-container .col h1{
