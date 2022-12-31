@@ -522,7 +522,7 @@ footer{
 .social ul li i:hover{
     background-color: #fff;
     color: #04091E;
-    transform: scale(1.1);
+    transform: scale(1.2) translateX(-10px);
 }
 
 /* responsive  */
