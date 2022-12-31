@@ -90,7 +90,7 @@ nav{
     padding: 10px;
 }
 .hero-text button{
-    width: 150px;
+    width: 185px;
     padding: 10px 20px;
     border: none;
     background-color: #9afafad3;
@@ -390,6 +390,7 @@ nav{
     padding: 10px;
     border-radius: 15px;
     transition: all .4s ease;
+    border: 1px solid rgb(53, 147, 171,0.2);
 }
 .pricing-container .col:hover{
     box-shadow: 0px 15px 51px 19px rgba(62, 249, 237, 0.11);
