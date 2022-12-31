@@ -102,7 +102,7 @@ nav{
 
 }
 .hero-text button:hover{
-    box-shadow: 0px 15px 51px 19px rgba(62, 249, 237, 0.11);
+    box-shadow: 0px 15px 51px 19px rgb(48, 51, 107, 0.2);
     transform: scale(1.05);
 }
 
@@ -151,7 +151,7 @@ nav{
     transition: all .4s;
 }
 .about-text button:hover{
-    box-shadow: 0px 15px 51px 19px rgba(62, 249, 237, 0.11);
+    box-shadow: 0px 15px 51px 19px rgb(48, 51, 107, 0.2);
     transform: scale(1.05);
 }
 
@@ -495,7 +495,11 @@ footer{
     padding: 5px 10px;
     border-radius: 29px;
     cursor: pointer;
+    transition: all .4s;
 
+}
+.footer-container .col .alart button:hover{
+    box-shadow: 0px 15px 51px 19px rgba(62, 249, 237, 0.11);
 }
 .social ul{
     display: flex;
