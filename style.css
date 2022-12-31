@@ -54,7 +54,7 @@ nav{
     color: #8B91FD;
 }
 .nav-list li a:hover{
-    color: tomato;
+    color: #F26E30;
 }
 
     /* hero section  */
@@ -231,12 +231,15 @@ nav{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 15px 0;
 }
 
 .num-project-container .col h1{
     color: #F9F9FF;
     font-size: 1.6rem;
     font-weight: 700;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
 }
 .num-project-container .col p{
     font-size: 1.1rem;
