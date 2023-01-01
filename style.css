@@ -12,6 +12,26 @@
 body{
     background: #F9F9FF;
 }
+    /* scrollbar for firefox  */
+html{
+    scrollbar-width:initial;
+    scrollbar-color: red gray;
+}
+    /* scrollbar for chrome  */
+
+html::-webkit-scrollbar{
+    width: .6rem;
+}
+html::-webkit-scrollbar-track{
+    background-color:#04091E;
+}
+html::-webkit-scrollbar-thumb{
+    background-color: #f26e30;
+    border-radius: 20px;
+    height: 5rem;
+    
+}
+
     /* header section  */
 
 header{
