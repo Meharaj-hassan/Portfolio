@@ -103,6 +103,14 @@ nav{
     margin-bottom: 10px;
     padding: 10px;
 }
+
+
+.hero-image img{
+        border-radius:5%;
+    }
+
+
+
 .hero-text p{
     color: gray;
     font-size: .9rem;
@@ -136,6 +144,10 @@ nav{
     padding: 50px 7%;
     grid-gap: 2rem;
 
+}
+
+.about-image img{
+    border-radius: 5%;
 }
 .hero-text{
     display: flex;
