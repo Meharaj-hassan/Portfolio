@@ -642,7 +642,7 @@ footer{
     }
     .hero-image img{
         transform: translate(70px,-70px);
-        margin: -30px;
+        
     }
     .about{
         grid-template-columns: repeat(1,1fr);
